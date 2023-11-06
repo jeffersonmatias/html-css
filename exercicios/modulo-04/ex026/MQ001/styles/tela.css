@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+    font-size: 1em;
+}
+
+header>h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+menu>ul {
+    list-style-type: none;
+    background-color: aquamarine;
+}
+
+menu li {
+    display: inline-block;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+article {
+    width: 600px;
+    display: block;
+    margin: auto;
+}
